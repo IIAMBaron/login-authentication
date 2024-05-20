@@ -1,0 +1,16 @@
+com\liambaron\authen\ObjectFactory.class
+com\liambaron\authenclient\Details.class
+com\liambaron\authen\AuthenWebService_Service.class
+com\liambaron\authenclient\AuthenWebService_Service.class
+com\liambaron\authenclient\User.class
+com\liambaron\authenclient\Hello.class
+com\liambaron\authen\User.class
+com\liambaron\authen\Details.class
+com\liambaron\authenclient\HelloResponse.class
+com\liambaron\authenclient\package-info.class
+com\liambaron\authenclient\DetailsResponse.class
+com\liambaron\authen\DetailsResponse.class
+com\liambaron\authen\package-info.class
+com\liambaron\authenclient\AuthenWebService.class
+com\liambaron\authenclient\ObjectFactory.class
+com\liambaron\authen\AuthenWebService.class
